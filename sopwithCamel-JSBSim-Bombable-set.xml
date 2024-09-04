@@ -507,18 +507,6 @@
     </keyboard>
 
 	</input>
-
-<!--  
-  <hud>
-      <path n="1">Aircraft/sopwithCamel-Bombable/Hud/ultra-minimal.xml</path>
-      <visibility n="1">false</visibility>
-      <path n="2">Aircraft/sopwithCamel-Bombable/Hud/ultra-minimal-pip.xml</path>
-      <visibility n="2">false</visibility>
-      <font>
-          <size>7</size>
-      </font>
-  </hud> 
-     -->
      
   <hud>
    <path n="1">Aircraft/sopwithCamel-Bombable/Hud/ultra-minimal.xml</path>
