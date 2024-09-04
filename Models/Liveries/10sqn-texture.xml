@@ -12,31 +12,31 @@
 				<nose-texture type="bool">false</nose-texture>
 				<material>
 					<Wing-Upper-Top>
-						<texture type="string">Liveries/camel_plan-texture.png</texture>
+						<texture type="string">Liveries/camel_plan.png</texture>
 					</Wing-Upper-Top>
 					<Horizontal-Stabiliser-Fixed>
-						<texture type="string">Liveries/camel_plan-texture.png</texture>
+						<texture type="string">Liveries/camel_plan.png</texture>
 					</Horizontal-Stabiliser-Fixed>
 					<Elevator-Surface>
-						<texture type="string">Liveries/camel_plan-texture.png</texture>
+						<texture type="string">Liveries/camel_plan.png</texture>
 					</Elevator-Surface>
 					<Tail>
-						<texture type="string">Liveries/camel_side-texture.png</texture>
+						<texture type="string">Liveries/camel_side.png</texture>
 					</Tail>
 					<Fuselage-Aft>
-						<texture type="string">Liveries/camel_side-texture.png</texture>
+						<texture type="string">Liveries/camel_side.png</texture>
 					</Fuselage-Aft>
 					<Wheel-R>
-						<texture type="string">Liveries/camel_side-texture.png</texture>
+						<texture type="string">Liveries/camel_side.png</texture>
 					</Wheel-R>
 					<Wheel-L>
-						<texture type="string">Liveries/camel_side-texture.png</texture>
+						<texture type="string">Liveries/camel_side.png</texture>
 					</Wheel-L>
 					<Rudder-Surface>
-						<texture type="string">Liveries/camel_side-texture.png</texture>
+						<texture type="string">Liveries/camel_side.png</texture>
 					</Rudder-Surface>
 					<Nose-Textured>
-							<texture type="string">Liveries/camel_side-texture.png</texture>
+							<texture type="string">Liveries/camel_side.png</texture>
 					</Nose-Textured>
 				</material>
 			</livery>

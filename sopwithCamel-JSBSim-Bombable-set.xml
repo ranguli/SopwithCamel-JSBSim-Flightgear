@@ -17,7 +17,7 @@
     <model-hz type="double">120.0</model-hz> <!-- experiment; 120hz is usual-->
    
   <startup>
-		<splash-texture>JSBSim-camel-splash2d-JSBSim.rgb</splash-texture>
+		<splash-texture>JSBSim-camel-splash2d.rgb</splash-texture>
     <splash-title>JSBSim Sopwith Camel (Bombable Compatible)</splash-title>
   </startup>
    
